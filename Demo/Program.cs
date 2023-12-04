@@ -1,2 +1,2 @@
-﻿Console.WriteLine("Hello, ASEM!");
+﻿Console.WriteLine("Hello, ASEM Demo!");
 Console.ReadLine();
